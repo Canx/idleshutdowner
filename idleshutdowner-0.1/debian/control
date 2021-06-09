@@ -1,0 +1,16 @@
+Source: idleshutdowner
+Section: unknown
+Priority: optional
+Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/idleshutdowner
+#Vcs-Git: https://salsa.debian.org/debian/idleshutdowner.git
+Rules-Requires-Root: no
+
+Package: idleshutdowner
+Architecture: all
+Depends: xprintidle
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
