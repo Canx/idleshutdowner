@@ -1,0 +1,5 @@
+idleshutdowner (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Ruben Cancho Gasulla <canchete@gmail.com>  Wed, 09 Jun 2021 19:04:43 +0200

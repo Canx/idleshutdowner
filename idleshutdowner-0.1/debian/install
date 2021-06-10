@@ -1,0 +1,2 @@
+idle_shutdown.sh /usr/local/bin
+idle_shutdown /etc/default

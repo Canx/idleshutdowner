@@ -15,7 +15,7 @@
 
 
 %:
-	dh $@ --with=cli --with=systemd
+	dh $@ --with systemd
 
 
 # dh_make generated override targets
