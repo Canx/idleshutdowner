@@ -2,7 +2,7 @@ Package: idleshutdowner
 Version: 0.1-1
 Architecture: all
 Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
-Installed-Size: 15
+Installed-Size: 22
 Depends: xprintidle
 Section: unknown
 Priority: optional

@@ -1,0 +1,18 @@
+[Unit]
+Description=Idle Auto Shutdown
+Requires=dbus.service
+After=dbus.service
+StartLimitInterval=0
+
+[Service]
+EnvironmentFile=-/etc/default/idle_shutdown
+ExecStart=/usr/local/bin/idle_shutdown.sh $IDLE_TIME
+ExecStop=
+ExecReload=/bin/kill -HUP $MAINPID
+KillMode=process
+Restart=on-failure
+RestartPreventExitStatus=255
+Type=simple
+
+[Install]
+WantedBy=multi-user.target

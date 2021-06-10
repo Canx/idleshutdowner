@@ -2,6 +2,7 @@ Format: 1.8
 Date: Wed, 09 Jun 2021 19:04:43 +0200
 Source: idleshutdowner
 Binary: idleshutdowner
+Built-For-Profiles: noudeb
 Architecture: source all
 Version: 0.1-1
 Distribution: unstable
@@ -15,17 +16,17 @@ Changes:
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- 28d7bd8670a76f2d44f06f35e270d5ad660633c2 629 idleshutdowner_0.1-1.dsc
- 1a07a0e197372edeeeeab80c33e5a1fe3abf871f 1932 idleshutdowner_0.1-1.tar.xz
- fb51ba862e63bde26d923a3b4cba36f70b9fb397 1908 idleshutdowner_0.1-1_all.deb
- 6c8b8843a88f9aff36b0586768dda7ed3fcbcdf5 5688 idleshutdowner_0.1-1_amd64.buildinfo
+ 465b65a7bb43d8e0126eeaf4e16faf6a25bedbae 609 idleshutdowner_0.1-1.dsc
+ c3888f38678be38dd32ce8d783fd06b234704656 1860 idleshutdowner_0.1-1.tar.xz
+ 6b127e1c4a4d0b65982ef2f77d1f2173faac2297 2772 idleshutdowner_0.1-1_all.deb
+ 4d0de4d554789e244dc28684bf0d43be521aecac 6581 idleshutdowner_0.1-1_amd64.buildinfo
 Checksums-Sha256:
- f06ed964912ef2964921fc95bd3bece1ce9a04aa86a44b5d4b639aa443260fea 629 idleshutdowner_0.1-1.dsc
- 281d55f6bf5292c1b9b9879c195566ac569a67f7fcaa2f3416cb24e83390a80d 1932 idleshutdowner_0.1-1.tar.xz
- 540b5d739e6746e28836a01612c9d5703eff7d79cf866000f5abcddf74887298 1908 idleshutdowner_0.1-1_all.deb
- 73c1c482ab20d63e34fae1dad04ca86a6f3d5b174436d57a6aceaab2cd502a2a 5688 idleshutdowner_0.1-1_amd64.buildinfo
+ 0fa399cdbd2ee67ecc1beefcbf5f20fb954043372edeb4946dfd6b2e704b5667 609 idleshutdowner_0.1-1.dsc
+ f85dfb742dba8bd22782e2f7f3bbb5a34de8a9ac1e2ad51002d523abd3a3db9a 1860 idleshutdowner_0.1-1.tar.xz
+ 725afe38c19819576a2191ea9c29f4fe09cf17153599d482728caac62bb6155c 2772 idleshutdowner_0.1-1_all.deb
+ 2c799cb14f81bd4f3e67271f18f060d72c628a1f70debfd607304e2b922e2a09 6581 idleshutdowner_0.1-1_amd64.buildinfo
 Files:
- f75506bb5c3223b3a08e44de21e3052f 629 unknown optional idleshutdowner_0.1-1.dsc
- 15c0e83b422210a101471fe97807a724 1932 unknown optional idleshutdowner_0.1-1.tar.xz
- 476eb8021dab6dedec96685d4f2adfd8 1908 unknown optional idleshutdowner_0.1-1_all.deb
- 2a14e65e2a0345623810f213065a8147 5688 unknown optional idleshutdowner_0.1-1_amd64.buildinfo
+ cd50ed899facdce8235363a4215dfa20 609 unknown optional idleshutdowner_0.1-1.dsc
+ a48f5abdff2ff614e5add0874dedf8be 1860 unknown optional idleshutdowner_0.1-1.tar.xz
+ 2740e998718415d3a594f1909ffb46a3 2772 unknown optional idleshutdowner_0.1-1_all.deb
+ e4453da5458d448d128f23769b835ff8 6581 unknown optional idleshutdowner_0.1-1_amd64.buildinfo
