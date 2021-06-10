@@ -1,0 +1,11 @@
+Package: idleshutdowner
+Version: 0.1-1
+Architecture: all
+Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
+Installed-Size: 15
+Depends: xprintidle
+Section: unknown
+Priority: optional
+Homepage: https://github.com/Canx/idleshutdowner
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

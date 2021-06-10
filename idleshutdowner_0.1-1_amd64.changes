@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 09 Jun 2021 19:04:43 +0200
+Source: idleshutdowner
+Binary: idleshutdowner
+Architecture: source all
+Version: 0.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
+Changed-By: Ruben Cancho Gasulla <canchete@gmail.com>
+Description:
+ idleshutdowner - <insert up to 60 chars description>
+Changes:
+ idleshutdowner (0.1-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 28d7bd8670a76f2d44f06f35e270d5ad660633c2 629 idleshutdowner_0.1-1.dsc
+ 1a07a0e197372edeeeeab80c33e5a1fe3abf871f 1932 idleshutdowner_0.1-1.tar.xz
+ fb51ba862e63bde26d923a3b4cba36f70b9fb397 1908 idleshutdowner_0.1-1_all.deb
+ 6c8b8843a88f9aff36b0586768dda7ed3fcbcdf5 5688 idleshutdowner_0.1-1_amd64.buildinfo
+Checksums-Sha256:
+ f06ed964912ef2964921fc95bd3bece1ce9a04aa86a44b5d4b639aa443260fea 629 idleshutdowner_0.1-1.dsc
+ 281d55f6bf5292c1b9b9879c195566ac569a67f7fcaa2f3416cb24e83390a80d 1932 idleshutdowner_0.1-1.tar.xz
+ 540b5d739e6746e28836a01612c9d5703eff7d79cf866000f5abcddf74887298 1908 idleshutdowner_0.1-1_all.deb
+ 73c1c482ab20d63e34fae1dad04ca86a6f3d5b174436d57a6aceaab2cd502a2a 5688 idleshutdowner_0.1-1_amd64.buildinfo
+Files:
+ f75506bb5c3223b3a08e44de21e3052f 629 unknown optional idleshutdowner_0.1-1.dsc
+ 15c0e83b422210a101471fe97807a724 1932 unknown optional idleshutdowner_0.1-1.tar.xz
+ 476eb8021dab6dedec96685d4f2adfd8 1908 unknown optional idleshutdowner_0.1-1_all.deb
+ 2a14e65e2a0345623810f213065a8147 5688 unknown optional idleshutdowner_0.1-1_amd64.buildinfo

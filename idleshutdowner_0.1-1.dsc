@@ -6,12 +6,12 @@ Version: 0.1-1
 Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
 Homepage: https://github.com/Canx/idleshutdowner
 Standards-Version: 4.5.1
-Build-Depends: debhelper-compat (= 11)
+Build-Depends: debhelper-compat (= 11), dh-systemd (>= 10)
 Package-List:
  idleshutdowner deb unknown optional arch=all
 Checksums-Sha1:
- f691a1a4c1c1f1ee43a2a420e67e06e9965e87b8 1912 idleshutdowner_0.1-1.tar.xz
+ 1a07a0e197372edeeeeab80c33e5a1fe3abf871f 1932 idleshutdowner_0.1-1.tar.xz
 Checksums-Sha256:
- ec95e54c1643f72689dcea6fa95ff34f26949cc147b11e6f9e2ce8dc55b1cc0f 1912 idleshutdowner_0.1-1.tar.xz
+ 281d55f6bf5292c1b9b9879c195566ac569a67f7fcaa2f3416cb24e83390a80d 1932 idleshutdowner_0.1-1.tar.xz
 Files:
- 346ad92487dd9e04eab85661d4c3ac0d 1912 idleshutdowner_0.1-1.tar.xz
+ 15c0e83b422210a101471fe97807a724 1932 idleshutdowner_0.1-1.tar.xz
