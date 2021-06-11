@@ -7,7 +7,9 @@ Se puede configurar el número de horas de inactividad en el archivo /etc/defaul
 
 Instalación
 -----------
-Descarga el paquete DEB: [idleshutdowner_0.1-1_all.deb](https://github.com/Canx/idleshutdowner/raw/master/idleshutdowner_0.1-1_all.deb)
+Instala el paquete xprintidle previamente (`sudo apt-get install xprintidle`) o realiza un `sudo apt-get install -f` después de instalar.
+
+Descarga el paquete [idleshutdowner_0.1-1_all.deb](https://github.com/Canx/idleshutdowner/raw/master/idleshutdowner_0.1-1_all.deb) y instala con `sudo dpkg -i idleshutdowner_0.1-1_all.deb`.
 
 Créditos
 --------
