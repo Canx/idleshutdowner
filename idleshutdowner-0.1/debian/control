@@ -1,5 +1,5 @@
 Source: idleshutdowner
-Section: unknown
+Section: utils
 Priority: optional
 Maintainer: Ruben Cancho Gasulla <canchete@gmail.com>
 Build-Depends: debhelper-compat (= 13)
@@ -12,5 +12,5 @@ Rules-Requires-Root: no
 Package: idleshutdowner
 Architecture: all
 Depends: xprintidle
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Shutdown service when idle in X
+  Service to shutdown the computer when no mouse or keyboard used in a certain time.

@@ -1,4 +1,4 @@
 # Paperspace idle_shutdown.sh tool configuration
 
-# Time (in hours) that the system can be idle before being shut down
-IDLE_TIME=2
+# Time (in seconds) that the system can be idle before being shut down
+IDLE_TIME=7200

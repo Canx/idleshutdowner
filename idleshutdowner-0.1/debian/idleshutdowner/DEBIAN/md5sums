@@ -1,3 +1,3 @@
 8a38e6a8bce502a40499fa0615b606d7  lib/systemd/system/idleshutdowner.service
-8d4be7aa3a715f1099bc3b891f88e875  usr/local/bin/idle_shutdown.sh
+6f51f3cbd872abcf07df57b8c55a705f  usr/local/bin/idle_shutdown.sh
 c3cf15539d708943d2a530153a5c360a  usr/share/doc/idleshutdowner/changelog.Debian.gz
