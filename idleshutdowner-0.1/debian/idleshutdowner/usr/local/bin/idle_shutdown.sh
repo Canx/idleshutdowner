@@ -27,7 +27,7 @@ while true; do
     logger "X Idle seconds: $x_idle_seconds"
     if [ "$x_idle_seconds" -gt "$idle_time" ]; then
       logger shutting down due to idle timer
-      #shutdown_system
+      shutdown_system
     fi
   fi
   sleep 60
